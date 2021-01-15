@@ -1,0 +1,21 @@
+{
+    "name": "darcula-mild",
+    "displayName": "darcula-mild",
+    "description": "A Mildly Dark Darcula Intellij Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mildly Darcula",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mildly Darcula-color-theme.json"
+            }
+        ]
+    }
+}
