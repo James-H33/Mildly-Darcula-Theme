@@ -1,13 +1,24 @@
 {
     "name": "darcula-mild",
-    "displayName": "darcula-mild",
+    "displayName": "Darcula-Mild",
     "description": "A Mildly Dark Darcula Intellij Theme",
     "version": "0.0.1",
+    "publisher": "JamesH",
+    "author": {
+        "name": "James Hall-Treworgy"
+    },
     "engines": {
         "vscode": "^1.52.0"
     },
+    "repository": {
+        "url": "https://github.com/James-H33/Mildly-Darcula-Theme"
+    },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Dark",
+        "Darcula"
     ],
     "contributes": {
         "themes": [
